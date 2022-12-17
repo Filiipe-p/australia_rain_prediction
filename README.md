@@ -1,4 +1,4 @@
-# Australia Rain Predictin
+# Australia Rain Prediction
  <h3>Ironhack Final Project</h3>
  Project status: In Progress
  
